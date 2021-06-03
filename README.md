@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ecological data analysis and Geo Information. I would also like to develop my programming
 - 🌱 I’m currently learning Vegetation mapping
 - 💞️ I’m looking to collaborate on data analysis, with a link to ecology, or tools that can be used for this purpose.
-- 📫 How to reach me koenders@ffexpert.nl
+- 📫 How to reach me https://www.linkedin.com/in/wouter-koenders/
 
 <!---
 FolkyHobbit/FolkyHobbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
